@@ -1,1 +1,1 @@
-web: gunicorn djangoTesting.wsgi.application
+web: gunicorn djangoTesting.wsgi.application —-log-file -
